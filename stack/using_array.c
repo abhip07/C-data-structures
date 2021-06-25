@@ -5,7 +5,7 @@
 
 #define N 10
 
-/// Initializing an empty stack for 10 elements
+/// Initializing an empty of 10 elements
 int stack[N];
 int top = -1;
 
@@ -90,13 +90,13 @@ int main(){
 }
 /* Results : 
  
+The Stack is :
 28 12 32 4 54 97 12 69 43 90
-
 28 is Popped
 12 is Popped
 32 is Popped
 4 is Popped
-After Popping, stack :
+After Popping, The Stack is :
 54 97 12 69 43 90
 
 */
