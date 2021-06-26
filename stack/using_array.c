@@ -5,7 +5,7 @@
 
 #define N 10
 
-/// Initializing an empty of 10 elements
+// Initializing an empty stack of 10 elements
 int stack[N];
 int top = -1;
 
