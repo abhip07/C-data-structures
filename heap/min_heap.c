@@ -27,7 +27,7 @@ void Insert(int item){
     Swap_up(size);
 }
 
-// compairing and swapping recently inserted element, upward in tree
+// compairing and swapping recently inserted element, down in tree
 void Swap_up(int index){
     int temp;
     while(index / 2 > 0){
