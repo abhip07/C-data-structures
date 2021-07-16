@@ -76,6 +76,7 @@ void Swap_down(int index){
     }
 }
 
+
 void max(){
     printf("The maximum element is : %d\n", heap[1]);
 }
